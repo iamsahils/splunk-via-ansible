@@ -1,7 +1,8 @@
 # Ansible-Splunk-Base
 
-This is an Ansible project that installs or upgrades Splunk to a specific version. It can also perform basic OS config (ulimits, THP disabled, hostname, etc.), ./splunk/etc/ backups, and SSL cert installation.
+Created by Sahil
 
+This repository provides Ansible playbooks and roles for automating the installation and configuration of Splunk Enterprise across your infrastructure. Whether deploying a single instance or setting up a distributed environment with indexers, search heads, and forwarders, these Ansible scripts simplify and streamline the deployment process.
 
 ### Setup
 
@@ -129,6 +130,6 @@ This project is provided WITHOUT any form of warranty and should be tested thoro
 
 ### Contact
 
-- john@johnmcgovern.com or https://www.johnmcgovern.com
+- iamsahilshaik@yahoo.com
 # splunk-via-ansible
 # splunk-via-ansible
